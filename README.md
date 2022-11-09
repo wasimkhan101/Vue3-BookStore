@@ -5,6 +5,8 @@ Sample bookstore single page application built with Vue 3 + Pinia and running on
 Component testing and End-to-end testing written in Nightwatch.js
 
 ### Run
-git clone https://github.com/
+git clone https://github.com/wasimkhan101/Vue3-BookStore
+
 npm install
+
 npm run dev
